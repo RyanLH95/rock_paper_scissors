@@ -1,0 +1,24 @@
+#gameDiv {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    position: relative; left: center;
+    border: 20px solid;
+    border-radius: 10px;
+    background-color: grey;
+    border-color: blue;
+}
+
+.choiceBtn {
+    font-size: 30px;
+    border-radius: 5px;
+    position: relative; top: -20px;
+}
+
+#playerText {
+    color: blue;
+}
+
+#computerText {
+    color: red;
+}
